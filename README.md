@@ -6,7 +6,7 @@ This is the final project for csc 322 (Software Engineering Course)
 
 
 Project Team MEMBER:
-                    Shahan Rahman 
-                    HASIBUL ISLAM
-                    Eftekher Husain
+                    Shahan Rahman,
+                    HASIBUL ISLAM,
+                    Eftekher Husain,
                     Daniel *
