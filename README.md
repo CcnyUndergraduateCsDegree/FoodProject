@@ -84,20 +84,16 @@ Special Requirement
 OUR CHOSEN EXTRA FEATURE:
 - [X] GUI using tkinter python
 
-
-## Current Plan (Subject to change): Technologies
+# Current Plan (Subject to change): Technologies
     - Python3 
     - Tkinter
-     - PLT
+    - PLT
 
-## How to run
+# How to run
 Download the required libraries.
 
-
-### Database
+# Database
 Our database was using xml files to store all types of data. 
 
-
-
-### FINAL NOTES
+# FINAL NOTES
 This project is only on local computers and must be downloaded 
