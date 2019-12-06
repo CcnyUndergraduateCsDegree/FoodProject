@@ -11,9 +11,7 @@ Project Team MEMBER:
 
 ![FASTLaneFood](https://user-images.githubusercontent.com/36207058/67982589-61ef1e00-fbf9-11e9-8c8c-397210670091.png)
 
-# Given Specification: 
-        5 user types
-        
+# Specification: 5 user types
 - [X] Managers/Superusers :
   - [X] Pays of cooks and delivery people
   - [X] Handles Complaints and Management of Customers
